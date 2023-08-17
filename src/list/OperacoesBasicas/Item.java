@@ -1,6 +1,4 @@
-package List.OperacoesBasicas;
-
-import java.math.BigDecimal;
+package list.OperacoesBasicas;
 
 public record Item(String nome, double preco, int quantidade) {
     public double getValorTotal() {

@@ -1,4 +1,4 @@
-package List.OperacoesBasicas;
+package list.OperacoesBasicas;
 
 public record Tarefa(String descricao) {
 

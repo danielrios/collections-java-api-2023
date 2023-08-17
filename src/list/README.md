@@ -1,14 +1,14 @@
-# List Interface
+# list Interface
 
 # Fixando os Conhecimentos
 
 Exercícios:
 
-1. Operações Básicas com List
-2. Pesquisa em List
-3. Ordenação nas List
+1. Operações Básicas com list
+2. Pesquisa em list
+3. Ordenação nas list
 
-## Operações Básicas com List
+## Operações Básicas com list
 
 ### 1. Lista de Tarefas
 <p>Crie uma classe chamada "ListaTarefas" que possui uma lista de tarefas como atributo. Cada tarefa é representada por uma classe chamada "Tarefa" que possui um atributo de descrição. Implemente os seguintes métodos:
@@ -31,7 +31,7 @@ Cada item é representado por uma classe chamada "Item" que possui atributos com
 
 ----
 
-## Pesquisa em List
+## Pesquisa em list
 
 ### 1. Catálogo de Livros
 <p>Crie uma classe chamada "CatalogoLivros" que possui uma lista de objetos do tipo "Livro" como atributo. Cada livro possui atributos como título, autor e ano de publicação. Implemente os seguintes métodos:
@@ -53,7 +53,7 @@ Cada item é representado por uma classe chamada "Item" que possui atributos com
 
 -------
 
-## Ordenação em List
+## Ordenação em list
 
 ### 1. Ordenação de Pessoas
 <p>Crie uma classe chamada "OrdenacaoPessoas" que possui uma lista de objetos do tipo "Pessoa" como atributo. Cada pessoa possui atributos como nome, idade e altura. Implemente os seguintes métodos:

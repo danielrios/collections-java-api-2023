@@ -1,4 +1,4 @@
-package List.Pesquisa;
+package list.Pesquisa;
 
 public record Livro(String titulo, String autor, int anoPublicacao) {
 
